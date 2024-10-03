@@ -3,7 +3,7 @@
 let lightBulbStatus = "On";
 
 //Start coding here
-
+// code
 switch (lightBulbStatus) {
   case "On":
     console.log("Light bulb is On.");

@@ -3,7 +3,7 @@
 let lightBulbStatus = "On";
 
 //Start coding here
-
+// code
 lightBulbStatus === "On"
   ? console.log("Light bulb is On.")
   : lightBulbStatus === "Off"
